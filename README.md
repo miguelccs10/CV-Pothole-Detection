@@ -50,6 +50,6 @@ O modelo treinado foi capaz de detectar buracos em vídeos. Como demonstração 
 
 Você pode assistir à demonstração do projeto no YouTube clicando na imagem abaixo:
 
-[![Demonstração do Projeto de Detecção de Buracos](https://img.youtube.com/vi/v3AbL8A0f1I/hqdefault.jpg)](https://youtube.com/shorts/3hrs6ikKXnE?feature=share)
+[![Demonstração do Projeto de Detecção de Buracos](https://img.youtube.com/vi/3hrs6ikKXnE/hqdefault.jpg)](https://youtube.com/shorts/3hrs6ikKXnE?feature=share)
 
 ---
