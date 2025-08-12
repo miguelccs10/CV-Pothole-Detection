@@ -1,4 +1,4 @@
-# 🚧 Detecção de Buracos de Asfalto com YOLO (Projeto LIA-UFG) 🚧
+# 🚧 Detecção de Buracos de Asfalto com YOLO 🚧
 
 ## 📌 Visão Geral
 
